@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<style>
+h1{
+color:black;
+background-color:green;
+text-align:center;
+display:block;
+height:50px;
+}
+
+<p>My first paragraph.</p>
+
+</body>
+</html>
